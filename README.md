@@ -1,3 +1,3 @@
-# Classic_Projects
+# Classic datasetd projects
 
 Repository for classic datasets
